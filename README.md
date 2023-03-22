@@ -2,10 +2,9 @@
 
 <p align="center">
   <img src="https://404lucas.netlify.app/img/logo.png" height="120">
+![404lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=404lucas&show_icons=true&theme=gotham)
+
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404lucas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 
 
