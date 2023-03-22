@@ -4,7 +4,7 @@
   <img src="https://404lucas.netlify.app/img/logo.png" height="120">
   <br>
   <br>
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=404lucas&layout=compact&langs_count=7&theme=gotham"/>
+<img width="70%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
 </p>
 <br>
 
