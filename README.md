@@ -4,8 +4,8 @@
   <img src="https://404lucas.netlify.app/img/logo.png" height="120">
   <br>
   <br>
-<img src="https://github-readme-stats.vercel.app/api?username=404lucas&show_icons=true&theme=gotham" width=60%>
-
+<img src="https://github-readme-stats.vercel.app/api?username=404lucas&show_icons=true&theme=gotham" width=40%>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?404lucas=anuraghazra&langs_count=8 " width="40%">
 </p>
 <br>
 
@@ -21,8 +21,8 @@
 - Estudante em desenvolvimento de software
 - Entusiasmo por front-end e UX
 - Constantemente aprendendo algo novo
-- Meu portflólio [link](https://404lucas.netlify.app/)
-- Estou atualmente em busca de construir minha carreira, aberto à propostas.
+- Meu [portfólio](https://404lucas.netlify.app/)
+- Estou atualmente em busca de construir minha carreira, aberto à propostas
 
 <br><br>
 
