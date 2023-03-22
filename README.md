@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://404lucas.netlify.app/img/logo.png" height="120">
-![404lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=404lucas&show_icons=true&theme=gotham)
+<img src="https://github-readme-stats.vercel.app/api?username=404lucas&show_icons=true&theme=gotham" width=100%>
 
 </p>
 <br>
@@ -39,16 +39,6 @@
 
 <br>
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-<a href="https://github.com/404lucas/">
-
-
-</a>
 </di
 ---
 
