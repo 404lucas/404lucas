@@ -1,10 +1,12 @@
 <h1 align="center"><b>Olá,</b> meu nome é</h1>
+<br>
 
 <p align="center">
   <img src="https://404lucas.netlify.app/img/logo.png" height="120">
   <br>
   <br>
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=404lucas&show_icons=true&theme=gotham"/>
+  <br>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=404lucas&show_icons=true&theme=gotham"/>
 </p>
 <br>
 
