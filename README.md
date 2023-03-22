@@ -4,8 +4,8 @@
   <img src="https://404lucas.netlify.app/img/logo.png" height="120">
   <br>
   <br>
-<img src="https://github-readme-stats.vercel.app/api?username=404lucas&show_icons=true&theme=gotham" width="40%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" width="40%">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=404lucas&layout=compact&langs_count=7&theme=gotham"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=404lucas&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 </p>
 <br>
 
