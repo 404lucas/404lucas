@@ -4,6 +4,7 @@
   <img src="https://404lucas.netlify.app/img/logo.png" height="120">
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404lucas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
