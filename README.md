@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-  <img src="https://404lucas.netlify.app/img/logo.png" height="120">
+  <img src="https://404lucas.netlify.app/img/logo.png" height="100">
   <br>
   <br>
   <br>
