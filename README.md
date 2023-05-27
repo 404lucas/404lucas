@@ -6,12 +6,14 @@
   <br>
   <br>
   <br>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=404lucas&&hide_border=true&show_icons=true&theme=gotham"/>
+  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=404lucas&&show_icons=true&theme=gotham"/>	<img width="40%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=404lucas&layout=compact&theme=gotham" />
+
 </p>
 <br>
 
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
