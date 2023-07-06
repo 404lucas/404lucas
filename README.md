@@ -19,10 +19,10 @@
 
 <br>
 
-- Software development student
+- Full stack developer 
 - Passion in UI & UX development
 - Constantly learning something new
-- In search of building my career
+- Working hard!
 - [My portfolio](https://404lucas.netlify.app/)
 
 
