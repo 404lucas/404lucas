@@ -6,8 +6,8 @@
   <br>
   <br>
   <br>
-  <img height='180em' src="https://github-readme-stats.vercel.app/api?username=404lucas&&show_icons=true&theme=gotham"/> <img height='180em' src= "https://github-readme-stats.vercel.app/api/top-langs/?username=404lucas&layout=compact&theme=gotham" />
-
+  <!--img height='180em' src="https://github-readme-stats.vercel.app/api?username=404lucas&&show_icons=true&theme=gotham"/--> 
+<img height='200em' src= "https://github-readme-stats.vercel.app/api/top-langs/?username=404lucas&layout=compact&theme=gotham" />
 </p>
 <br>
 
@@ -22,7 +22,7 @@
 - Full stack developer 
 - Passion in UI & UX development
 - Constantly learning something new
-- Working hard!
+- Hard Working!
 - [My portfolio](https://404lucas.netlify.app/)
 
 
